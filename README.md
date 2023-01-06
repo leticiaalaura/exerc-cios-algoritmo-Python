@@ -1,0 +1,1 @@
+Resolução dos exercícios da Python Brasil [https://wiki.python.org.br/PythonBrasil]
